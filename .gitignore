@@ -4,3 +4,6 @@ Thumbs.db
 #Python:
 *.py[cod]
 *.so
+
+#c:
+*.cpp
